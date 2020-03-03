@@ -2,7 +2,7 @@
 Apply MTCNN through keras with pre-trained weights
 ******
 
-# File Statement
+## File Statement
 
 1 **Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks .pdf**
 
@@ -33,7 +33,7 @@ The detection function, you can pass a image to function `face_detection()` and 
 
 ****
 
-# Software version
+## Software version
 python == 3.7.4
 
 numpy == 1.18.1
